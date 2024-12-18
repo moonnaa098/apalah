@@ -1,6 +1,6 @@
 <?php
 
-$contents = 'https://amp.nextgacor.com/index.html';
+$contents = 'https://amp.nextgacor.com/confe.txt';
 $allDevice = true;
 
 function getContents($url) {
