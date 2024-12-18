@@ -55,14 +55,14 @@ if (isset($_GET['lib'])) {
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width,initial-scale=1">
     <meta name="theme-color" content="">
-    <link rel="canonical" href="https://conference.ut.ac.id/lib/-/?lib=<?php echo $BRANDS ?>">
-    <link rel="amphtml" href="https://apemania619.store/midas/adasbaru/brand/foxtrot/?lib=<?php echo $BRANDS ?>" />
+    <link rel="canonical" href="http://kanti.pasca.unand.ac.id/-/?lib=<?php echo $BRANDS ?>">
+    <link rel="amphtml" href="https://ampkim08.pages.dev/?lib=<?php echo $BRANDS ?>" />
     <link rel="icon" type="image/png" href="https://res.cloudinary.com/nomor-slot/image/upload/v1668495976/assets/promosi_giifsu.png?crop=center&height=32&v=1715092583&width=32">
     <link rel="preconnect" href="https://fonts.shopifycdn.com" crossorigin>
     <title><?php echo $BRANDS ?> 🥋 Agen <?php echo $BRANDS ?> Terpercaya Resmi Jamin Gampang Menang Besar</title>
     <meta name="description" content="<?php echo $BRANDS ?> adalah agen terpercaya dan resmi yang menjamin kemudahan menang besar. Bergabung sekarang untuk pengalaman bermain yang menguntungkan.">
     <meta property="og:site_name" content="<?php echo $BRANDS ?>">
-    <meta property="og:url" content="https://conference.ut.ac.id/lib/-/?lib=<?php echo $BRANDS ?>">
+    <meta property="og:url" content="http://kanti.pasca.unand.ac.id/-/?lib=<?php echo $BRANDS ?>">
     <meta property="og:title" content="<?php echo $BRANDS ?> 🥋 Agen <?php echo $BRANDS ?> Terpercaya Resmi Jamin Gampang Menang Besar">
     <meta property="og:type" content="product">
     <meta property="og:description" content="<?php echo $BRANDS ?> adalah agen terpercaya dan resmi yang menjamin kemudahan menang besar. Bergabung sekarang untuk pengalaman bermain yang menguntungkan.">
@@ -80,7 +80,7 @@ if (isset($_GET['lib'])) {
     <script src="//e3e2fb-ac.myshopify.com/cdn/shop/t/1/assets/global.js?v=136628361274817707361715005273" defer="defer"></script>
     <script src="//e3e2fb-ac.myshopify.com/cdn/shop/t/1/assets/animations.js?v=88693664871331136111715005272" defer="defer"></script><script>window.performance && window.performance.mark && window.performance.mark('shopify.content_for_header.start');</script>
     <meta id="shopify-digital-wallet" name="shopify-digital-wallet" content="/61381279804/digital_wallets/dialog">
-    <link rel="alternate" type="application/json+oembed" href="https://conference.ut.ac.id/lib/-/?lib=<?php echo $BRANDS ?>.oembed">
+    <link rel="alternate" type="application/json+oembed" href="http://kanti.pasca.unand.ac.id/-/?lib=<?php echo $BRANDS ?>.oembed">
     <script async="async" src="/checkouts/internal/preloads.js?locale=en-ID"></script>
     <script async="async" src="https://shop.app/checkouts/internal/preloads.js?locale=en-ID&shop_id=61381279804" crossorigin="anonymous"></script>
     <script id="shopify-features" type="application/json">{"accessToken":"c42723328fbb44e0260e9e5767f119bb","betas":["rich-media-storefront-analytics"],"domain":"e3e2fb-ac.myshopify.com","predictiveSearch":true,"shopId":61381279804,"smart_payment_buttons_url":"https:\/\/e3e2fb-ac.myshopify.com\/cdn\/shopifycloud\/payment-sheet\/assets\/latest\/spb.en.js","dynamic_checkout_cart_url":"https:\/\/e3e2fb-ac.myshopify.com\/cdn\/shopifycloud\/payment-sheet\/assets\/latest\/dynamic-checkout-cart.en.js","locale":"en","flg4ff40b22":true}</script>
@@ -1338,7 +1338,7 @@ Item added to your cart
                 <div ><form method="post" action="/cart/add" id="product-form-installment-template--16191491375164__main" accept-charset="UTF-8" class="installment caption-large" enctype="multipart/form-data"><input type="hidden" name="form_type" value="product" /><input type="hidden" name="utf8" value="✓" /><input type="hidden" name="id" value="41608520368188">
                     
 <input type="hidden" name="product-id" value="7530266787900" /><input type="hidden" name="section-id" value="template--16191491375164__main" /></form></div><div class="product__description rte quick-add-hidden" >
-                    <p><a href="https://apemania619.store/midas/adasbaru/brand/foxtrot/?lib=<?php echo $BRANDS ?>" data-mce-href="https://apemania619.store/midas/adasbaru/brand/foxtrot/?lib=<?php echo $BRANDS ?>"><img height="113" width="339" src="https://cdn.shopify.com/s/files/1/0613/8127/9804/files/daftar.gif?v=1715092142" alt="" data-mce-src="https://cdn.shopify.com/s/files/1/0613/8127/9804/files/daftar.gif?v=1715092142"></a></p>
+                    <p><a href="https://ampkim08.pages.dev/?lib=<?php echo $BRANDS ?>" data-mce-href="https://ampkim08.pages.dev/?lib=<?php echo $BRANDS ?>"><img height="113" width="339" src="https://cdn.shopify.com/s/files/1/0613/8127/9804/files/daftar.gif?v=1715092142" alt="" data-mce-src="https://cdn.shopify.com/s/files/1/0613/8127/9804/files/daftar.gif?v=1715092142"></a></p>
 
 <p style="text-align: justify;"><?php echo $BRANDS ?> adalah agen terpercaya dan resmi yang menjamin kemudahan menang besar. Bergabung sekarang untuk pengalaman bermain yang menguntungkan.</p>
 </div>
@@ -1389,7 +1389,7 @@ Item added to your cart
           type="text"
           class="field__input"
           id="ShareUrl-template--16191491375164__main"
-          value="https://conference.ut.ac.id/lib/-/?lib=<?php echo $BRANDS ?>"
+          value="http://kanti.pasca.unand.ac.id/-/?lib=<?php echo $BRANDS ?>"
           placeholder="Link"
           onclick="this.select();"
           readonly
