@@ -2,6 +2,7 @@
 <html xmlns:wormhole="http://www.w3.org/1999/xhtml" lang="id-ID">
 <head>
     <meta charset="utf-8" />
+    <meta name="google-site-verification" content="lXkJqrFPV_JUM3FVhcYq2ruGOiDCKs2TF6mzmX9LPxs" />
     <title>Slot Demo: Link Situs Slot Gacor Online Deposit Dana & Akun Demo PG Soft Mahjong Ways</title>
     <meta name="description"
         content="Slot Demo merupakan link situs slot gacor hari ini dan slot online demo deposit via dana minimal 5000 tanpa potongan yang lengkap dengan daftar akun demo slot pg soft mahjong mirip asli." />
