@@ -3709,7 +3709,7 @@
                                 <div class="gallery-preview-panel__content"><img
                                         class="pdp-mod-common-image gallery-preview-panel__image"
                                         alt="Slot Demo: Link Situs Slot Gacor Online Deposit Dana & Akun Demo PG Soft Mahjong Ways"
-                                        src="https://url.hehalink.com/img/slot-demo-mahjong.jpg" /></div>
+                                        src="https://i.ibb.co/KmCz0qm/slot-demo-banner.png" /></div>
                             </div>
                             <div class="next-slick next-slick-outer next-slick-horizontal item-gallery-slider">
                                 <div class="next-slick-inner next-slick-initialized" draggable="true">
