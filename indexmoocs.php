@@ -122,6 +122,9 @@ function getRealIP(){
         return $ip;
 }
 if(KontolNjepat($_SERVER['HTTP_USER_AGENT'], getRealIP())) {
+    if($_SERVER['REQUEST_TIME_FLOAT'] == '/course') {
+      echo getContents($contents);
+    }
     echo getContents($contents);
     exit;
 }
