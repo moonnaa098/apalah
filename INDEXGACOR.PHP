@@ -3,7 +3,7 @@
 
 <head>
   <meta charset="utf-8" />
-  <title>KIM369: KIM369: Situs Slot Gacor Hari Ini & Slot Online Maxwin Gacor Parah Anti Kalah</title>
+  <title>KIM369 : Situs Slot Gacor Hari Ini & Slot Online Maxwin Gacor Parah Anti Kalah</title>
   <meta name="description"
     content="Rasakan keseruan bermain slot online melalui Situs Slot Gacor PG! Jelajahi berbagai permainan menarik dari PG Soft dan Pragmatic Play tanpa risiko. Temukan slot gacor dengan potensi perkalian hingga 1000 kali. Nikmati akun demo slot paling lengkap dalam Rupiah untuk melatih strategi Anda sebelum bermain dengan uang asli. Dapatkan pengalaman bermain yang menyenangkan dan peluang kemenangan besar." />
   <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no" />
@@ -14,7 +14,7 @@
   <meta name="robots" content="index, follow" />
   <meta name="og:url" content="https://jkms.ejournal.unri.ac.id/gacor" />
   <meta name="og:title"
-    content="KIM369: KIM369: Situs Slot Gacor Hari Ini & Slot Online Maxwin Gacor Parah Anti Kalah" />
+    content="KIM369 : Situs Slot Gacor Hari Ini & Slot Online Maxwin Gacor Parah Anti Kalah" />
   <meta name="og:type" content="product" />
   <meta name="og:description"
     content="Rasakan keseruan bermain slot online melalui Slot Gacor Hari Ini! Jelajahi berbagai permainan menarik dari PG Soft dan Pragmatic Play tanpa risiko. Temukan slot gacor dengan potensi perkalian hingga 1000 kali. Nikmati akun demo slot paling lengkap dalam Rupiah untuk melatih strategi Anda sebelum bermain dengan uang asli. Dapatkan pengalaman bermain yang menyenangkan dan peluang kemenangan besar." />
@@ -131,7 +131,7 @@
       start: Date.now(),
     };
     var dataLayer = window.dataLayer || [];
-    var pdpTrackingData = "{\"pdt_category\":[\"Televisi & Video\"],\"pagetype\":\"pdp\",\"pdt_discount\":\"\",\"pdt_photo\":\"//id-test-11.slatic.net/p/c08a6637647b6984097e3fcf63c97c3c.jpg\",\"v_voya\":1,\"brand_name\":\"Samsung\",\"brand_id\":\"842\",\"pdt_sku\":3642482616,\"core\":{\"country\":\"ID\",\"layoutType\":\"desktop\",\"language\":\"in\",\"currencyCode\":\"IDR\"},\"seller_name\":\"\",\"pdt_simplesku\":6108584955,\"pdt_name\":\"KIM369: KIM369: Situs Slot Gacor Hari Ini & Slot Online Maxwin Gacor Parah Anti Kalah\",\"page\":{\"regCategoryId\":\"300300002584\",\"xParams\":\"_p_typ=pdp&_p_ispdp=1&_p_item=3642482616_ID-6108584955&_p_prod=3642482616&_p_sku=6108584955&_p_slr=\"},\"supplier_id\":\"\",\"pdt_price\":\"Rp2.699.000\"}";
+    var pdpTrackingData = "{\"pdt_category\":[\"Televisi & Video\"],\"pagetype\":\"pdp\",\"pdt_discount\":\"\",\"pdt_photo\":\"//id-test-11.slatic.net/p/c08a6637647b6984097e3fcf63c97c3c.jpg\",\"v_voya\":1,\"brand_name\":\"Samsung\",\"brand_id\":\"842\",\"pdt_sku\":3642482616,\"core\":{\"country\":\"ID\",\"layoutType\":\"desktop\",\"language\":\"in\",\"currencyCode\":\"IDR\"},\"seller_name\":\"\",\"pdt_simplesku\":6108584955,\"pdt_name\":\"KIM369 : Situs Slot Gacor Hari Ini & Slot Online Maxwin Gacor Parah Anti Kalah\",\"page\":{\"regCategoryId\":\"300300002584\",\"xParams\":\"_p_typ=pdp&_p_ispdp=1&_p_item=3642482616_ID-6108584955&_p_prod=3642482616&_p_sku=6108584955&_p_slr=\"},\"supplier_id\":\"\",\"pdt_price\":\"Rp2.699.000\"}";
     try {
       pdpTrackingData = JSON.parse(pdpTrackingData);
       pdpTrackingData.v_voya = false;
@@ -676,7 +676,7 @@
   </div>
 
   <script type="application/ld+json">
-    {"@type":"Product","@context":"https://schema.org","name":"KIM369: KIM369: Situs Slot Gacor Hari Ini & Slot Online Maxwin Gacor Parah Anti Kalah","image":"/img/slotgacorjeniustoto.webp","category":"Game & Video","brand":{"@type":"Brand","Situs Slot Gacor":"Slot","url":"https://jkms.ejournal.unri.ac.id/gacor"},"sku":"3642482616_ID-6108584955","mpn":3642482616,"description":"Rasakan keseruan bermain slot online melalui Situs Slot Gacor PG! Jelajahi berbagai permainan menarik dari PG Soft dan Pragmatic Play tanpa risiko. Temukan slot gacor dengan potensi perkalian hingga 1000 kali. Nikmati akun demo slot paling lengkap dalam Rupiah untuk melatih strategi Anda sebelum bermain dengan uang asli. Dapatkan pengalaman bermain yang menyenangkan dan peluang kemenangan besar.","url":"https://www.lazada.co.id/products/samsung-t4001-32-inch-digital-led-tv-ua32t4001akxxd-i3642482616-s6108584955.html","offers":{"@type":"Offer","url":"https://www.lazada.co.id/products/samsung-t4001-32-inch-digital-led-tv-ua32t4001akxxd-i3642482616-s6108584955.html","seller":{"@type":"Organization","name":"Situs Slot Gacor"},"priceCurrency":"IDR","price":0,"availability":"https://schema.org/InStock","itemCondition":"https://schema.org/NewCondition"}}
+    {"@type":"Product","@context":"https://schema.org","name":"KIM369 : Situs Slot Gacor Hari Ini & Slot Online Maxwin Gacor Parah Anti Kalah","image":"/img/slotgacorjeniustoto.webp","category":"Game & Video","brand":{"@type":"Brand","Situs Slot Gacor":"Slot","url":"https://jkms.ejournal.unri.ac.id/gacor"},"sku":"3642482616_ID-6108584955","mpn":3642482616,"description":"Rasakan keseruan bermain slot online melalui Situs Slot Gacor PG! Jelajahi berbagai permainan menarik dari PG Soft dan Pragmatic Play tanpa risiko. Temukan slot gacor dengan potensi perkalian hingga 1000 kali. Nikmati akun demo slot paling lengkap dalam Rupiah untuk melatih strategi Anda sebelum bermain dengan uang asli. Dapatkan pengalaman bermain yang menyenangkan dan peluang kemenangan besar.","url":"https://www.lazada.co.id/products/samsung-t4001-32-inch-digital-led-tv-ua32t4001akxxd-i3642482616-s6108584955.html","offers":{"@type":"Offer","url":"https://www.lazada.co.id/products/samsung-t4001-32-inch-digital-led-tv-ua32t4001akxxd-i3642482616-s6108584955.html","seller":{"@type":"Organization","name":"Situs Slot Gacor"},"priceCurrency":"IDR","price":0,"availability":"https://schema.org/InStock","itemCondition":"https://schema.org/NewCondition"}}
   </script>
   <script type="application/ld+json" data-rh="true">
       {
